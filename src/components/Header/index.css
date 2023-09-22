@@ -6,8 +6,7 @@
   background-color: green;
   display: flex;
   justify-content: space-between;
-  box-sizing: border-box;
-  padding: 0 100px 0 100px;
+  padding: 0;
 }
 
 .logo {
@@ -25,7 +24,7 @@
   align-items: center;
   justify-content: space-between;
   box-sizing: border-box;
-  padding-right: 100px;
+  padding-right: 200px;
 }
 
 .li {

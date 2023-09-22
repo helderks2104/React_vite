@@ -31,15 +31,7 @@
     "sourceType": "module"
   },
   "rules": {
-    // "no-unused-vars": [
-    //   "error",
-    //   {
-    //     "vars": "all",
-    //     "args": "after-used",
-    //     "ignoreRestSiblings": true,
-    //     "argsIgnorePattern": "^_"
-    //   }
-    // ],
-    "react/react-in-jsx-scope": "on"
+    "jsx-a11y/anchor-is-valid": 0,
+    "object-curly-newline": 0
   }
 }
